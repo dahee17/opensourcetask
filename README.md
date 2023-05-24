@@ -26,7 +26,7 @@
   *    -l : -f보다 더 상세한 정보 출력
   *    -ef : 모든 프로세스를 풀 포맷으로 출
 
-     >ps -e | grep abc
+>ps -e | grep abc
 
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAyMDAzMTZfMTkw%2FMDAxNTg0MzE2Nzc5MTg4.YN2FwvuzTyJ5BZlikCUndSsmTmkKvrq1dy615VM0S3og.vtZr0oBdu28NwNbUBsekGfGDH4qD1Cx0qWI-65yixFwg.PNG%2Fps.PNG&type=sc960_832">
 
@@ -40,7 +40,7 @@
   *        -n : 프로세스 그룹 중에 대표 프로세스 id 출력
   *        -p : 각 프로세스 id에 대해 한 행씩 출력
 
-           > jobs [option] [작업번호]
+> jobs [option] [작업번호]
 
 |출력 결과| |
 |:---:|:---:|
@@ -59,7 +59,7 @@
   *        -l : 신호로 사용할 수 있는 신호이름들을 보여줌
 
 > kill [option] [pid]
->> kill ps -ef | grep 프로세스이름 | grep -v grep | awk '{print $2}’
+> kill ps -ef | grep 프로세스이름 | grep -v grep | awk '{print $2}’
 
 
 
