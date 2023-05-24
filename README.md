@@ -26,7 +26,7 @@
   *    -l : -f보다 더 상세한 정보 출력
   *    -ef : 모든 프로세스를 풀 포맷으로 출
 
-    >ps -e | grep abc
+     >ps -e | grep abc
 
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAyMDAzMTZfMTkw%2FMDAxNTg0MzE2Nzc5MTg4.YN2FwvuzTyJ5BZlikCUndSsmTmkKvrq1dy615VM0S3og.vtZr0oBdu28NwNbUBsekGfGDH4qD1Cx0qWI-65yixFwg.PNG%2Fps.PNG&type=sc960_832">
 
