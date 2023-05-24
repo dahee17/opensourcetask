@@ -19,7 +19,7 @@
 
 <img src="https://t1.daumcdn.net/cfile/tistory/99285B3F5B14C72B1E">
 
-##ps(process)
+## ps(process)
 ---
 ** 현재 실행 중인 프로세스 목록과 상태를 보는 명령어 
 
