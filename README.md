@@ -16,7 +16,7 @@
 
 <img src="https://t1.daumcdn.net/cfile/tistory/99285B3F5B14C72B1E">
 
-## **ps(process)**
+# **ps(process)**
 ---
 * **현재 실행 중인 프로세스 목록과 상태를 보는 명령어**
 
@@ -30,7 +30,7 @@
 
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAyMDAzMTZfMTkw%2FMDAxNTg0MzE2Nzc5MTg4.YN2FwvuzTyJ5BZlikCUndSsmTmkKvrq1dy615VM0S3og.vtZr0oBdu28NwNbUBsekGfGDH4qD1Cx0qWI-65yixFwg.PNG%2Fps.PNG&type=sc960_832">
 
-## **jobs**
+# **jobs**
 ---
 * **작업의 상태를 표시하는 명령어**
 * 현재 쉘 프로세스의 자식 백그라운 프로세스들을 보여줌
@@ -49,7 +49,7 @@
 |stopped|작업이 일시 중단|
 
 
-## **kill**
+# **kill**
 ---
 * **kill  : 프로세스를 지정하고 신호(signal)를 보내서 제어하는 명령어**
 * 주로 프로세스를 종료하는 용도
